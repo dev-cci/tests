@@ -1,0 +1,12 @@
+{
+    "name": "garage404/php",
+    "authors": [
+        {
+            "name": "svadhis",
+            "email": "imeian@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
